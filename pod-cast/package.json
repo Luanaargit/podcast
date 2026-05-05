@@ -1,0 +1,1 @@
+{"name":"podcast-manager","version":"1.0.0","description":"API de podcasts sem frameworks","main":"dist/server.js","scripts":{"dev":"ts-node src/server.ts"},"devDependencies":{"@types/node":"^20.19.39","ts-node":"^10.9.2","typescript":"^5.4.2"}}
